@@ -1,0 +1,78 @@
+2024-06-11 03:59:09.145560: Preliminaries complete. Initiating ETL process
+2024-06-11 03:59:12.431566: Data extraction complete. Initiating Transformation process
+2024-06-12 00:50:56.054128: Preliminaries complete. Initiating ETL process
+2024-06-12 00:50:58.683701: Data extraction complete. Initiating Transformation process
+2024-06-12 00:50:58.985554: Data transformation complete. Initiating Loading process
+2024-06-12 00:50:59.001178: Data saved to CSV file
+2024-06-12 00:50:59.219925: Data loaded to Database as a table, Executing queries
+2024-06-12 00:50:59.235547: Process Complete
+2024-06-12 00:50:59.351767: Process Complete
+2024-06-12 00:50:59.465794: Process Complete
+2024-11-25 04:31:02.847081: Preliminaries complete. Initiating ETL process
+2024-11-25 04:31:05.713724: Data extraction complete. Initiating Transformation process
+2024-11-25 04:34:50.826246: Preliminaries complete. Initiating ETL process
+2024-11-25 04:34:52.982010: Data extraction complete. Initiating Transformation process
+2024-11-25 04:34:53.506816: Data transformation complete. Initiating Loading process
+2024-11-25 04:34:53.529006: Data saved to CSV file
+2024-11-25 04:34:53.869085: Data loaded to Database as a table, Executing queries
+2024-11-25 04:34:53.869085: Process Complete
+2024-11-25 04:34:54.064023: Process Complete
+2024-11-25 04:34:54.246284: Process Complete
+2024-11-25 04:46:42.647160: Preliminaries complete. Initiating ETL process
+2024-11-25 04:46:45.682275: Data extraction complete. Initiating Transformation process
+2024-11-25 04:46:45.682275: Extraction complete
+2024-11-25 04:48:05.809018: Preliminaries complete. Initiating ETL process
+2024-11-25 04:48:08.296877: Data extraction complete. Initiating Transformation process
+2024-11-25 04:48:08.296877: Extraction complete
+2024-11-25 04:54:27.753707: Preliminaries complete. Initiating ETL process.
+2024-11-25 04:54:31.340613: Data Extracted Successfully form the Wikipedia.
+2024-11-25 04:54:31.356243: Extraction complete.
+2024-11-25 04:54:31.371869: Data Transformation Successfully done, step 2.
+2024-11-25 04:54:31.371869: Extraction complete.
+2024-11-25 04:54:31.387492: Data Loaded into csv, step 3.
+2024-11-25 04:54:31.387492: data has been loaded into csv.
+2024-11-25 04:54:31.663888: Data Loaded into sqlite3, step 4.
+2024-11-25 04:54:31.663888: data has been loaded into sqlite3.
+2024-11-25 04:54:31.663888: Process Complete.
+2024-11-25 04:54:31.663888: Process Complete.
+2024-11-25 04:54:31.663888: Process Complete.
+2024-11-25 04:54:31.663888: Query run.
+2024-11-26 01:22:30.414203: Preliminaries complete. Initiating ETL process.
+2024-11-26 01:22:33.983240: Data Extracted Successfully form the Wikipedia.
+2024-11-26 01:22:33.984243: Extraction complete.
+2024-11-26 01:22:34.129237: Data Transformation Successfully done, step 2.
+2024-11-26 01:22:34.131241: Extraction complete.
+2024-11-26 01:22:34.164390: Data Loaded into csv, step 3.
+2024-11-26 01:22:34.164390: data has been loaded into csv.
+2024-11-26 01:22:34.470182: Data Loaded into sqlite3, step 4.
+2024-11-26 01:22:34.470182: data has been loaded into sqlite3.
+2024-11-26 01:22:34.472197: Process Complete.
+2024-11-26 01:22:34.473196: Process Complete.
+2024-11-26 01:22:34.474196: Process Complete.
+2024-11-26 01:22:34.474196: Query run.
+2024-11-26 01:28:29.260501: Preliminaries complete. Initiating ETL process.
+2024-11-26 01:28:32.869628: Data Extracted Successfully form the Wikipedia.
+2024-11-26 01:28:32.870637: Extraction complete.
+2024-11-26 01:28:32.888632: Data Transformation Successfully done, step 2.
+2024-11-26 01:28:32.888632: Extraction complete.
+2024-11-26 01:28:32.903629: Data Loaded into csv, step 3.
+2024-11-26 01:28:32.904639: data has been loaded into csv.
+2024-11-26 01:28:33.177984: Data Loaded into sqlite3, step 4.
+2024-11-26 01:28:33.178975: data has been loaded into sqlite3.
+2024-11-26 01:28:33.179996: Process Complete.
+2024-11-26 01:28:33.180980: Process Complete.
+2024-11-26 01:28:33.180980: Process Complete.
+2024-11-26 01:28:33.181980: Query run.
+2024-11-26 01:31:06.204194: Preliminaries complete. Initiating ETL process.
+2024-11-26 01:31:08.997284: Data Extracted Successfully form the Wikipedia.
+2024-11-26 01:31:08.998298: Extraction complete.
+2024-11-26 01:31:09.015284: Data Transformation Successfully done, step 2.
+2024-11-26 01:31:09.016287: Extraction complete.
+2024-11-26 01:31:09.030278: Data Loaded into csv, step 3.
+2024-11-26 01:31:09.031297: data has been loaded into csv.
+2024-11-26 01:31:09.308283: Data Loaded into sqlite3, step 4.
+2024-11-26 01:31:09.309286: data has been loaded into sqlite3.
+2024-11-26 01:31:09.310286: Process Complete.
+2024-11-26 01:31:09.311311: Process Complete.
+2024-11-26 01:31:09.313283: Process Complete.
+2024-11-26 01:31:09.314295: Query run.
